@@ -10,7 +10,7 @@ Neste projeto, foi necessário dimensionar todos os componente mecânicos e algu
 
 
 
-##Monografia
+## Monografia
 
 Na monografia se encontram todos os cálculos realizados para o dimensionamento do maquinário de forma mais detalhada e técnica. Este documento foi desenvolvido baseado nas normas abnt atuais  para efeito de padronização e tambem para devida aceitação acadêmica.
 
@@ -18,7 +18,7 @@ Norma abnt p/ formatação do documento: :link: (*<https://www.normasabnt.org/no
 
 
 
-##Desenhos
+## Desenhos
 
 Neste repositório, tambem estão armazenadas todas as **imagens dos componentes** (a maior parte no formato PDF ) cotados em escala, perspectiva e com seus respectivos cabeçalhos e dimensionamentos.
 
