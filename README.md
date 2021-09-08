@@ -22,3 +22,9 @@ Norma abnt p/ formatação do documento: :link: (*<https://www.normasabnt.org/no
 
 Neste repositório, tambem estão armazenadas todas as **imagens dos componentes** (a maior parte no formato PDF ) cotados em escala, perspectiva e com seus respectivos cabeçalhos e dimensionamentos.
 
+
+
+## Componentes
+
+Neste diretório contém os todos as partes mecânincas que compõem o projeto, como por exemplo, **motor**, **mancal**, **rolamento** e **polia**. 
+Este caminho também acompanha os arquivos no formato cad e pdf dos desenhos.
