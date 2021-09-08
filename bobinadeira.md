@@ -2,9 +2,9 @@
 
 
 
-##Objetivo
+## Objetivo
 
-Este projeto tem o objetivo de desenvolver uma bobinadeira vertical e para tal, se encontram neste repositório remoto, todos os resultados obtidos com esse trabalho.
+Este projeto tem o objetivo de desenvolver uma bobinadeira horizontal e para tal, se encontram neste repositório remoto, todos os resultados obtidos com esse trabalho.
 
 Neste projeto, foi necessário dimensionar todos os componente mecânicos e alguns elétricos (motor elétrico, por exemplo) agindo sempre de acordo com as normas nacionais e internacionais, a fim de padronizar e tornar este um projeto viável e possível no meio industrial atual.
 
